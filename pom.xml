@@ -9,6 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<!-- Changes Made by QA team -->
+	<!-- Changes Done By DEV team -->
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>spring_Git_Demo-1</artifactId>
